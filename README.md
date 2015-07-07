@@ -1,0 +1,1 @@
+Some feedback on EuroClojure 2015
